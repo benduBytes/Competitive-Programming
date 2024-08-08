@@ -10,6 +10,7 @@ Feel free to fork this repository and contribute by adding more problems or impr
 
 | ID   | Title | Tags | Difficulty | Solved | Solution File |
 |------|-------|------|------------|--------|----------------|
+| 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Array, Matrix, Simulation | Medium | ✔️ | [Solution for Question 885](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/SpiralMatrixIII_885.java) |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Array, Hash Table, String, Counting | Easy | ✔️ | [Solution for Question 2053](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/kthDistinct_2053.java) |
 | 2073 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | Math, String, Recursion | Hard | ✔️ | [Solution for Question 2073](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/IntegerToEnglishWords_273.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Math, String, Greedy | Easy | ✔️ | [Solution for Question 3014](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/LeetCode_Problemset/MinimumNumberOfPushesToTypeWord1_3014.java) |
