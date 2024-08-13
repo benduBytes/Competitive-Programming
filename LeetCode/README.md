@@ -10,6 +10,7 @@ Feel free to fork this repository and contribute by adding more problems or impr
 
 | ID   | Title | Tags | Difficulty | Solved | Solution File |
 |------|-------|------|------------|--------|----------------|
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Array, Backtracking | Medium | ✔️ | [Solution for Question 40](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/CombinationSumII_40.java) |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | Easy | ✔️ | [Solution for Question 703](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/KthLargestElementInAStream_703.java) |
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | Array, Hash Table, Math, Matrix | Medium | ✔️ | [Solution for Question 840](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/MagicSquaresInGrid_840.java) |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | Array, Matrix, Simulation | Medium | ✔️ | [Solution for Question 885](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/SpiralMatrixIII_885.java) |
