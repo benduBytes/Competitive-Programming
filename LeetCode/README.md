@@ -42,7 +42,7 @@ Feel free to fork this repository and contribute by adding more problems or impr
 | 2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) | Graph, Heap (Priority Queue), Shortest Path | Hard | ✔️ | [Solution for Question 2699](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/ModifyGraphEdgeWeights_2699.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Math, String, Greedy | Easy | ✔️ | [Solution for Question 3014](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/LeetCode_Problemset/MinimumNumberOfPushesToTypeWord1_3014.java) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Hash Table, String, Greedy, Sorting, Counting | Medium | ✔️ | [Solution for Question 3016](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/MinimumNumberOfPushesToTypeWord2_3016.java) |
-
+| 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Array, Hash Table, Linked List | Medium | ✔️ | [Solution for Question 3217](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/DeleteNodesFromLinkedListPresentInArray_3217.java) |
 ### How to Contribute
 
 1. Fork this repository.
