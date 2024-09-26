@@ -1,8 +1,8 @@
 package DailyQuestion;
 import java.util.*;
 
-//Time Complexity: O(N * M)
-//Space Complexity: O(N * M)
+//Time Complexity: O(Log(N))
+//Space Complexity: O(N)
 
 public class MyCalendarI_729 {
 	TreeMap<Integer,Integer> calendar = new TreeMap<>();
