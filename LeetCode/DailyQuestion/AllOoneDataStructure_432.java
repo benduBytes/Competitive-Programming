@@ -44,11 +44,11 @@ class Pair1<K, V> {
 }
 
 
-class AllOoneDataStructure_462 {
+class AllOoneDataStructure_432 {
 	private Map<String, Integer> count;
     private TreeSet<Pair1<Integer, String>> set;
 
-    public AllOoneDataStructure_462() {
+    public AllOoneDataStructure_432() {
         count = new HashMap<>();
         set = new TreeSet<>((a, b) -> a.getKey().equals(b.getKey()) ? a.getValue().compareTo(b.getValue()) : a.getKey() - b.getKey());
     }
