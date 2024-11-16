@@ -113,6 +113,7 @@ Feel free to fork this repository and contribute by adding more problems or impr
 | 3133 | [Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | Bit Manipulation | Medium | ✔️ | [Solution for Question 3133](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/MinimumArrayEnd_3133.java) |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii/) | String | Medium | ✔️ | [Solution for Question 3163](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/StringCompressionIII_3163.java) |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Array, Hash Table, Linked List | Medium | ✔️ | [Solution for Question 3217](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/DeleteNodesFromLinkedListPresentInArray_3217.java) |
+| 3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | Array, Sliding Window | Medium | ✔️ | [Solution for Question 3254](https://github.com/benduBytes/Competitive-Programming/blob/main/LeetCode/DailyQuestion/FindThePowerOfKSizeSubarraysI_3254.java) |
 ### How to Contribute
 
 1. Fork this repository.
